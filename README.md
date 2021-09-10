@@ -1,12 +1,11 @@
 ## Oii! Eu sou a Bianca
 
-<div>
+  <div>
   <a href="https://github.com/leitzke80">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leitzke80&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leitzke80&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
+    </div>
+    <div style="display: inline_block"><br>
   <img align="right" alt="leitzke" height="120" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GIF_20210910_093312.gif?raw=true">
     
   ##
