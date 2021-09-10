@@ -8,6 +8,10 @@
   
   ##
   
+  <div style="display: inline_block"><br>
+  <img align="right" alt="Gmns-Gif" height="120" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GIF_20210910_093312.gif?raw=true">
+  ##
+  
   <div>
   <a href="https://instagram.com/leitzke_bianca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leitzkebianca80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
