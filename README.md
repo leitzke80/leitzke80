@@ -6,8 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leitzke80&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
-  
   <div style="display: inline_block"><br>
   <img align="right" alt="Gmns-Gif" height="120" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GIF_20210910_093312.gif?raw=true">
   ##
